@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(22, 98, 128);
+    font-size: 25px;
+    color: black;
+}
+
+label {
+    font-size: 20px;
+}
+
+.botsig {
+    text-align: center;
+}
+
+.card {
+    background-color: rgb(22, 98, 128);
+    width: 40vw;
+}
+
+.border-dashed {
+    border-style: dashed !important;
+}
+
+.coninfo {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
